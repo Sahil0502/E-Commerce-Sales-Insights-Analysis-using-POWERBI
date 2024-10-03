@@ -29,7 +29,8 @@ By analyzing this data, businesses can understand patterns and make strategic de
 4. **Customer Behavior Insights**: Understand purchasing patterns, frequency of purchases, and top customers.
 5. **Sales by Channel**: Track how different sales channels contribute to overall revenue.
 
-![Power BI Dashboard Screenshot](./images/dashboard_screenshot.png)
+![image](https://github.com/user-attachments/assets/c37a8995-47b7-4239-b7a4-a1d3a22c3c7f)
+
 
 ## 📚 Data Sources
 
